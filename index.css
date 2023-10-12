@@ -1,3 +1,9 @@
 body{ 
     color: red;
+    background-image:inherit;
+    
+}
+button{
+background-color: darkorange;
+    color:black;
 }
